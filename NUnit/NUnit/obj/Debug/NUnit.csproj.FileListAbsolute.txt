@@ -1,0 +1,8 @@
+C:\Users\NUnit\NUnit\NUnit\bin\Debug\NUnit.exe.config
+C:\Users\NUnit\NUnit\NUnit\bin\Debug\NUnit.exe
+C:\Users\NUnit\NUnit\NUnit\bin\Debug\NUnit.pdb
+C:\Users\NUnit\NUnit\NUnit\obj\Debug\NUnit.csproj.AssemblyReference.cache
+C:\Users\NUnit\NUnit\NUnit\obj\Debug\NUnit.csproj.SuggestedBindingRedirects.cache
+C:\Users\NUnit\NUnit\NUnit\obj\Debug\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\NUnit\NUnit\NUnit\obj\Debug\NUnit.exe
+C:\Users\NUnit\NUnit\NUnit\obj\Debug\NUnit.pdb
